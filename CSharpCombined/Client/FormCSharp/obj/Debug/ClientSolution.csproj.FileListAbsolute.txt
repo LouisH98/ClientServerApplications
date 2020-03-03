@@ -1,0 +1,10 @@
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\FormCSharp\FormCSharp\bin\Debug\FormCSharp.exe.config
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\FormCSharp\FormCSharp\bin\Debug\FormCSharp.exe
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\FormCSharp\FormCSharp\bin\Debug\FormCSharp.pdb
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\FormCSharp\FormCSharp\obj\Debug\ClientSolution.csprojAssemblyReference.cache
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\FormCSharp\FormCSharp\obj\Debug\ClientSolution.GUI.resources
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\FormCSharp\FormCSharp\obj\Debug\FormCSharp.Properties.Resources.resources
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\FormCSharp\FormCSharp\obj\Debug\ClientSolution.PlayerPanel.resources
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\FormCSharp\FormCSharp\obj\Debug\ClientSolution.csproj.GenerateResource.cache
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\FormCSharp\FormCSharp\obj\Debug\FormCSharp.exe
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\FormCSharp\FormCSharp\obj\Debug\FormCSharp.pdb

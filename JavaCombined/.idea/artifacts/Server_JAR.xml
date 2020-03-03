@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Server JAR">
+    <output-path>$PROJECT_DIR$/out/artifacts/Server_JAR</output-path>
+    <root id="archive" name="JavaCombined.jar">
+      <element id="module-output" name="JavaCombined" />
+    </root>
+  </artifact>
+</component>

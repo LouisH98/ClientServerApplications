@@ -1,0 +1,7 @@
+M:/Year 3/Advanced Programming/Ass 1/CSharpCombined/Server/Server/bin/Debug/Server.exe.config
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\CSharpCombined\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\CSharpCombined\Server\Server\bin\Debug\Server.exe
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\CSharpCombined\Server\Server\bin\Debug\Server.pdb
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\CSharpCombined\Server\Server\obj\Debug\Server.exe
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\CSharpCombined\Server\Server\obj\Debug\Server.pdb
+C:\Users\Louis\Google Drive\University Of Essex\Year 3\Assignments\Advanced Programming\CSharpCombined\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
