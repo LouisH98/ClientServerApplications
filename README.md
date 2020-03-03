@@ -1,8 +1,7 @@
 # ClientServerApplications
 Work for Advanced Programming assignment, using both Java and C# supporting the same protocol.
 
-
-Protocol
+## Protocol
 This is a client-server application where the client initiates a connection to the server. 
 The protocol is text based and includes commands and parameters and both the client and server can initiate communication.
 Client commands sent to server
