@@ -1,5 +1,5 @@
 # ClientServerApplications
-Work for Advanced Programming assignment, using both Java and C# supporting the same protocol.
+Work for Advanced Programming assignment, using both Java and C# supporting the same protocol over Sockets.
 
 ## Protocol
 This is a client-server application where the client initiates a connection to the server. 
