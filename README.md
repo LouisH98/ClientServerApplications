@@ -24,9 +24,10 @@ Server commands sent to client
 |    PLAYER_JOIN   <ID>          |    ID is the new   players ID                                                                                                                                                          |
 |    PLAYER_LEAVE   <ID>         |    The leaving player’s   ID                                                                                                                                                           |
 |    ERROR   <Message>           |    If an error occurs   at any time, this message will be sent to the client specifying the error.                                                                                     |
+
+
 **Communication Diagram**
 ![communication diagram](img/communication-diagram.png)
-
 
 # GIF
 Here is a GIF showing that how the application works, and that clients can recover after server disconnection by hosting their own server, with other clients reconnecting.
